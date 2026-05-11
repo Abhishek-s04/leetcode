@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhishek-s04/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhishek-s04/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-s04/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Abhishek-s04/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Abhishek-s04/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
