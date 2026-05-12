@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Abhishek-s04/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abhishek-s04/leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -55,8 +56,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Abhishek-s04/leetcode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
