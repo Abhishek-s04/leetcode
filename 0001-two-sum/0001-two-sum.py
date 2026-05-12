@@ -2,9 +2,13 @@ class Solution(object):
 
     def twoSum(self, nums, target):
 
-        for i in range(len(nums) - 1):
+        d = {}
 
-            for j in range(i + 1, len(nums)):
+        for i in range(len(nums)):
 
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+            rem = target - nums[i]
+
+            if rem in d:
+                return [d[rem], i]
+
+            d[nums[i]] = i
