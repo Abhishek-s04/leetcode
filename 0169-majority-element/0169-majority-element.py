@@ -1,11 +1,12 @@
 class Solution(object):
     def majorityElement(self, arr):
-
-        count_dict = {}
-        for item in arr:
-            if item in count_dict:
-                count_dict[item] += 1
+        count=0
+        maz=None
+        for num in arr:
+            if count==0:
+                maz=num
+            if num==maz:
+                count+=1
             else:
-                count_dict[item] = 1
-            if count_dict[item] > len(arr)//2:
-                return item
+                count-=1
+        return maz
