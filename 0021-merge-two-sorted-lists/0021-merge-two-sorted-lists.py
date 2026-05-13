@@ -1,11 +1,8 @@
 class Solution:
     
     def mergeTwoLists(self, list1, list2):
-
         dummy = ListNode(0)
         temp = dummy
-
-        # Compare nodes
         while list1 and list2:
 
             if list1.val < list2.val:
@@ -16,8 +13,6 @@ class Solution:
                 list2 = list2.next
 
             temp = temp.next
-
-        # Remaining nodes
         if list1:
             temp.next = list1
 
