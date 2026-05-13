@@ -15,5 +15,4 @@ class Solution(object):
             if count_dict[item] > ans:
                 ans = count_dict[item]
                 majority = item
-
         return majority
