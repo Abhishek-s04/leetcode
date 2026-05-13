@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Abhishek-s04/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Abhishek-s04/leetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek-s04/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Abhishek-s04/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek-s04/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
