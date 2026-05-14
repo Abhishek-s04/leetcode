@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Abhishek-s04/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Abhishek-s04/leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Abhishek-s04/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Abhishek-s04/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-s04/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Abhishek-s04/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Abhishek-s04/leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Abhishek-s04/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek-s04/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Abhishek-s04/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhishek-s04/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
