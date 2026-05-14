@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-s04/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abhishek-s04/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Abhishek-s04/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek-s04/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Abhishek-s04/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-s04/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhishek-s04/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-s04/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Abhishek-s04/leetcode/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek-s04/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
