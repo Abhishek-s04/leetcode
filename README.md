@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhishek-s04/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhishek-s04/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Abhishek-s04/leetcode/tree/master/0043-multiply-strings) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Abhishek-s04/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-s04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Abhishek-s04/leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Abhishek-s04/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/Abhishek-s04/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
