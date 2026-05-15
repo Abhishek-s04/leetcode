@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishek-s04/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Abhishek-s04/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-s04/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhishek-s04/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Abhishek-s04/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Abhishek-s04/leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhishek-s04/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Abhishek-s04/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
