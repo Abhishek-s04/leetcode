@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhishek-s04/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abhishek-s04/leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Abhishek-s04/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Abhishek-s04/leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Abhishek-s04/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhishek-s04/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Abhishek-s04/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Abhishek-s04/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Abhishek-s04/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Abhishek-s04/leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek-s04/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
