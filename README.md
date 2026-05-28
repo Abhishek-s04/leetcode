@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Abhishek-s04/leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/Abhishek-s04/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/Abhishek-s04/leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhishek-s04/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Abhishek-s04/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Abhishek-s04/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Abhishek-s04/leetcode/tree/master/1729-find-followers-count) |
